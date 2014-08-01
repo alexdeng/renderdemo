@@ -1,6 +1,6 @@
-Package: openAngular
+Package: renderdemo
 Type: Package
-Title: opencpu app: edit and evaluate R script
+Title: opencpu app
 Version: 1.0
 Date: 2014-07-29
 Author: Alex Deng
@@ -8,4 +8,5 @@ Maintainer: alexdeng <alexdeng@microsoft.com>
 Description: demo
 License: MIT
 Imports:
-    evaluate
+    rCharts,
+    rmarkdown
